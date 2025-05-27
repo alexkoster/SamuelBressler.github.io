@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a biologist, ornithologist and avid birder from Southern California,."
+    "text": "I’m a biologist, ornithologist and avid birder from Southern California."
   },
   {
     "objectID": "photos.html",
@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Puente-Chino Hills Christmas Bird Count\nI started this Circle in 2020 as a sort-of covid project, and it has grown by leaps and bounds in the ensuing years. Summaries of the last five counts can be found below; species totals in the 140s are typical.\nPCH CBC 2024\nPCH CBC 2023\nBirders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September."
+    "text": "Puente-Chino Hills Christmas Bird Count\nI started this Circle in 2020 as a sort-of covid project, and it has grown by leaps and bounds in the ensuing years. Summaries of the last five counts can be found below; species totals in the 140s are typical.\nPCH CBC 2024\nPCH CBC 2023"
   },
   {
     "objectID": "CV.html",
@@ -47,5 +47,12 @@
     "title": "Birding Tours",
     "section": "",
     "text": "I’ve led dozens of field trips across Southern California, in habitats ranging from the wetlands, scrublands and woodlands of Orange County and the Los Angeles Basin, to the mixed conifer forests in the San Gabriel Mountains, to the Salton Sea deep in the Colorado Desert. Whether you’re a local birder to Southern California or visiting from elsewhere, I can help you find the special bird you are looking, whether it be California Gnatcatcher, White-headed Woodpecker, Abert’s Towhee, or something else entirely. Reach out for information on rates."
+  },
+  {
+    "objectID": "projects.html#birders-of-all-skill-levels-are-encouraged-to-join.-the-count-generally-takes-place-the-last-weekend-of-december-a-signup-form-will-be-posted-sometime-in-september.",
+    "href": "projects.html#birders-of-all-skill-levels-are-encouraged-to-join.-the-count-generally-takes-place-the-last-weekend-of-december-a-signup-form-will-be-posted-sometime-in-september.",
+    "title": "Projects",
+    "section": "Birders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September.",
+    "text": "Birders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September."
   }
 ]

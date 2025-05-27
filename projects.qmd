@@ -11,7 +11,6 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-
 ---
 
 I started this Circle in 2020 as a sort-of covid project, and it has grown by leaps and bounds in the ensuing years. Summaries of the last five counts can be found below; species totals in the 140s are typical.
@@ -20,5 +19,4 @@ I started this Circle in 2020 as a sort-of covid project, and it has grown by le
 
 [PCH CBC 2023](https://ebird.org/tripreport/187433)
 
-Birders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September.
----
+## Birders of all skill levels are encouraged to join. The count generally takes place the last weekend of December; a signup form will be posted sometime in September.
