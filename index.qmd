@@ -22,12 +22,6 @@ about:
       href: https://ebird.org/profile/MjE4NTQ1/US-CA
     - text: iNaturalist
       href: https://www.inaturalist.org/people/samuel196
-      
-      
-
 ---
 
 Welcome to my website in development! Musings on birds, ecology, nature and more.
-
-
-
