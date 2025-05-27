@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Samuel Bressler"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - CV.qmd
+      - projects.qmd
+      - birdtours.qmd
+      - photos.qmd
+      - posts.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

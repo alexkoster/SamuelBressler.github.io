@@ -1,0 +1,33 @@
+---
+title: "Samuel Bressler"
+image: DSCN2475.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/samuel-bressler-2b17981ab/
+    - text: Email
+      icon: envelope
+      href: mailto:pacificgoldenplover@gmail.com
+      
+      
+    - text: Instagram
+      icon: instagram
+      href: https://www.instagram.com/pacificgoldenplover/
+    - text: Ebird
+      href: https://ebird.org/profile/MjE4NTQ1/US-CA
+    - text: iNaturalist
+      href: https://www.inaturalist.org/people/samuel196
+      
+      
+
+---
+
+Welcome to my website in development! Musings on birds, ecology, nature and more.
+
+
+
